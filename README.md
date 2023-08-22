@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Emmanuel Bwire
 #### Design and development
-![Design and development](https://pbs.twimg.com/profile_banners/1545672122650984449/1692697162/1080x360)
+![Design and development](https://github.com/bwire40/bwire40/blob/main/EMMANUEL%20BWIRE%20(2).png)
 
 I'm Bwire from Kenya, and I do design and development. I really enjoy learning new technologies, languages, and frameworks such as React and Django. I also work well with WordPress.
 
