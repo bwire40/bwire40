@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @bwire40
-- 👀 I’m interested in New technologies
-- 📫 You can check my profile on how to reach me
+### Hi there 👋
 
-<!---
-bwire40/bwire40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Bwire from Kenya, and I do design and development. I really enjoy learning new technologies
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwire40)](https://github.com/bwire40/github-readme-stats)
