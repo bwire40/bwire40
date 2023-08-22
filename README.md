@@ -1,4 +1,4 @@
-### Hi there 👋, Emmanuel Bwire
+### Hi there 👋, I'm Emmanuel Bwire
 #### Design and development
 ![Design and development](https://pbs.twimg.com/profile_banners/1545672122650984449/1692697162/1080x360)
 
