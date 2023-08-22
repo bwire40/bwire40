@@ -11,6 +11,9 @@ I'm Bwire from Kenya, and I do design and development. I really enjoy learning n
 Skills: DJANGO / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Python | Django 
+- 👯 I’m looking to collaborate on Javascript and Python projects 
+- 📫 How to reach me: emmanuelbwire80@gmail.com
 
 
 ### My Socials
