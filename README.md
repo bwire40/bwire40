@@ -8,7 +8,7 @@
 
 I'm Bwire from Kenya, and I do design and development. I really enjoy learning new technologies, languages, and frameworks such as React and Django. I also work well with WordPress.
 
-Skills: DJANGO / REACT / JS / HTML / CSS
+Skills: LARAVEL / DJANGO / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python | Django 
