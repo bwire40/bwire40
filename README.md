@@ -7,11 +7,11 @@
 
 I'm Bwire from Kenya, and I do design and development. I really enjoy learning new technologies, languages, and frameworks such as React and Django. I also work well with WordPress.
 
-Skills: LARAVEL / DJANGO / REACT / JS / HTML / CSS
+Skills: LARAVEL / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python | Django 
-- 👯 I’m looking to collaborate on Javascript and Python projects 
+- 🌱 I’m currently learning Laravel /Flutter 
+- 👯 I’m looking to collaborate on Javascript and php projects 
 - 📫 How to reach me: emmanuelbwire80@gmail.com
 
 
