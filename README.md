@@ -5,13 +5,13 @@
 #### Design and development
 
 
-I'm Bwire from Kenya, and I do design and development. I really enjoy learning new technologies, languages, and frameworks such as React and Django. I also work well with WordPress.
+I'm Bwire from Kenya, and I do design and development. I enjoy learning new technologies, languages, and frameworks like React and Laravel. I also work well with WordPress.
 
 Skills: LARAVEL / REACT/ REACT NATIVE / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Laravel / React Native 
-- 👯 I’m looking to collaborate on Javascript and php projects 
+- 👯 I’m looking to collaborate on Javascript and PHP projects 
 - 📫 How to reach me: emmanuelbwire80@gmail.com
 
 
