@@ -14,6 +14,18 @@ Skills: LARAVEL / REACT/ REACT NATIVE / JS / HTML / CSS
 - 👯 I’m looking to collaborate on Javascript and PHP projects 
 - 📫 How to reach me: emmanuelbwire80@gmail.com
 
+### My Projects
+- https://gemini-clone-green-xi.vercel.app/
+- https://movieland-five-xi.vercel.app/
+- https://github.com/bwire40/pet-shop-laravel
+- https://github.com/bwire40/lm-library-app
+- https://myweather-api-app.vercel.app/
+- https://rps-game-vert.vercel.app/
+- https://my-travel-journal-app.vercel.app/
+- https://simple-tip-calc-phi.vercel.app/
+- https://responsive-react-app-roan.vercel.app/
+- https://emmanuelbwire-porfolio.vercel.app/
+- https://meme-generator-app-two.vercel.app/
 
 ### My Socials
 
