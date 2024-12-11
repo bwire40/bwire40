@@ -26,6 +26,7 @@ Skills: LARAVEL / REACT/ REACT NATIVE / JS / HTML / CSS
 - https://responsive-react-app-roan.vercel.app/
 - https://emmanuelbwire-porfolio.vercel.app/
 - https://meme-generator-app-two.vercel.app/
+- https://responsive-qr-code-component-one.vercel.app/
 
 ### My Socials
 
