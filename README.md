@@ -31,6 +31,12 @@ I'm Bwire from Kenya, and I do design and development. I enjoy learning new tech
 - 👯 I’m looking to collaborate on Javascript and PHP projects 
 - 📫 How to reach me: emmanuelbwire80@gmail.com
 
+### My Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ### My Projects
 - https://gemini-clone-green-xi.vercel.app/
 - https://movieland-five-xi.vercel.app/
@@ -55,14 +61,7 @@ I'm Bwire from Kenya, and I do design and development. I enjoy learning new tech
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 ### My Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Top skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwire40)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bwire40&show_icons=true&count_private=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
 ### Github Metrics
 ![GitHub metrics](https://metrics.lecoq.io/bwire40)  
