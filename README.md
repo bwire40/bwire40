@@ -26,8 +26,8 @@ I'm Bwire from Kenya, and I do design and development. I enjoy learning new tech
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Laravel / React Native 
+- 🔭 I’m currently working on Laravel. 
+- 🌱 I’m currently learning New Skills in Web development 
 - 👯 I’m looking to collaborate on Javascript and PHP projects 
 - 📫 How to reach me: emmanuelbwire80@gmail.com
 
