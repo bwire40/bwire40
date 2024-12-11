@@ -64,8 +64,9 @@ I'm Bwire from Kenya, and I do design and development. I enjoy learning new tech
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
 ### Github Metrics
-![GitHub metrics](https://metrics.lecoq.io/bwire40)  
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/bwire40/bwire40/output/snake.svg" alt="Snake animation" />
 
 ### Streak Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bwire40)  
