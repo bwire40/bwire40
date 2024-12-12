@@ -52,6 +52,7 @@ I'm Bwire from Kenya, and I do design and development. I enjoy learning new tech
 - https://responsive-qr-code-component-one.vercel.app/
 - https://blog-preview-card-me.vercel.app/
 - https://social-links-profile-main-silk-alpha.vercel.app/
+- https://recipe-page-livid-two.vercel.app/
 
 ### My Socials
 
