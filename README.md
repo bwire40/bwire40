@@ -1,68 +1,117 @@
+![Software Engineering](https://github.com/bwire40/bwire40/blob/main/EMMANUEL%20BWIRE%20\(2\).png)
 
-![Design and development](https://github.com/bwire40/bwire40/blob/main/EMMANUEL%20BWIRE%20(2).png)
+# 👋 Emmanuel Bwire
 
-### Hi there 👋, I'm Emmanuel Bwire
-#### Design and development
+**Software Engineer | Backend & Full-Stack Web Development**
 
+I design and build scalable web applications focused on real business workflows and long-term maintainability.
 
-I'm Bwire from Kenya, and I do design and development. I enjoy learning new technologies, languages, and frameworks like React and Laravel. I also work well with WordPress.
+My primary focus is backend engineering using **Laravel**, building robust APIs, data-driven platforms, and modern web interfaces powered by JavaScript.
 
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+I enjoy working on meaningful products, improving system architecture, and collaborating with teams shipping production software.
 
-- 🔭 I’m currently working on Laravel. 
-- 🌱 I’m currently learning New Skills in Web development 
-- 👯 I’m looking to collaborate on Javascript and PHP projects 
-- 📫 How to reach me: emmanuelbwire80@gmail.com
+---
 
-### My Stats
+## 🚀 Engineering Focus
+
+* Backend development with **Laravel**
+* RESTful API design & integration
+* Full-stack web applications
+* Database architecture & optimization
+* System refactoring & performance improvements
+* Building production-ready platforms
+
+---
+
+## 🧰 Core Technologies
+
+### Backend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+</p>
+
+### Tools & Environment
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### Laravel Applications
+
+* https://github.com/bwire40/pet-shop-laravel
+* https://github.com/bwire40/lm-library-app
+
+### Full-Stack & JavaScript Applications
+
+* https://gemini-clone-green-xi.vercel.app/
+* https://movieland-five-xi.vercel.app/
+* https://myweather-api-app.vercel.app/
+
+### Frontend Engineering
+
+* https://my-travel-journal-app.vercel.app/
+* https://responsive-react-app-roan.vercel.app/
+* https://emmanuelbwire-porfolio.vercel.app/
+
+---
+
+## 🤝 Open to Collaboration
+
+I’m interested in collaborating on:
+
+* Laravel platforms & SaaS products
+* Backend/API engineering
+* Startup MVPs
+* System optimization & refactoring
+* Open-source web applications
+
+---
+
+## 📫 Contact
+
+📧 **[emmanuelbwire80@gmail.com](mailto:emmanuelbwire80@gmail.com)**
+💼 **LinkedIn:** https://www.linkedin.com/in/bwire23
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bwire40&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bwire40&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=bwire40&show_icons=true&theme=dracula" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bwire40&layout=compact&theme=dracula" height="150"/>
+
 </div>
 
-### My Projects
-- https://gemini-clone-green-xi.vercel.app/
-- https://movieland-five-xi.vercel.app/
-- https://github.com/bwire40/pet-shop-laravel
-- https://github.com/bwire40/lm-library-app
-- https://myweather-api-app.vercel.app/
-- https://rps-game-vert.vercel.app/
-- https://my-travel-journal-app.vercel.app/
-- https://simple-tip-calc-phi.vercel.app/
-- https://responsive-react-app-roan.vercel.app/
-- https://emmanuelbwire-porfolio.vercel.app/
-- https://meme-generator-app-two.vercel.app/
-- https://responsive-qr-code-component-one.vercel.app/
-- https://blog-preview-card-me.vercel.app/
-- https://social-links-profile-main-silk-alpha.vercel.app/
-- https://recipe-page-livid-two.vercel.app/
+---
 
-### My Socials
+## ⚡ Engineering Principles
 
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/bwire23" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p> 
+* Build maintainable systems
+* Prefer clarity over complexity
+* Ship working software consistently
+* Focus on real-world problem solving
 
-### Attained Badges 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+---
 
-### My Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
-
-### Streak Stats
-![GitHub streak stats](https://streak-stats.demolab.com/?user=bwire40)  
+⭐ *Always open to meaningful collaborations and challenging engineering work.*
