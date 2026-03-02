@@ -60,6 +60,8 @@ I enjoy working on meaningful products, improving system architecture, and colla
 
 * https://github.com/bwire40/pet-shop-laravel
 * https://github.com/bwire40/lm-library-app
+* https://notes-app-main-kkonfe.laravel.cloud/
+* https://buymarket-website-main-2hvcm9.laravel.cloud/
 
 ### Full-Stack & JavaScript Applications
 
